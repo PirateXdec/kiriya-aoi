@@ -1,5 +1,5 @@
 from telethon import events
-from tg_bot import telethn as client
+from SaitamaRobot import telethn as client
 
 
 def register(**args):
