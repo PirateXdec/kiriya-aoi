@@ -32,3 +32,15 @@ pyrate-limiter
 cachetools
 ujson
 pretty_errors
+
+pylast
+pySmartDL
+youtube-search-python
+youtube-dl
+spotdl
+validators
+hachoir
+pytz
+html2text
+bing_image_downloader
+telegraph
