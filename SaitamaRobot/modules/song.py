@@ -1,6 +1,6 @@
 
 from SaitamaRobot.events import register
-from SaitamaRobot.utlis import progress
+from SaitamaRobot.utils import progress
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 from validators.url import url
